@@ -31,6 +31,9 @@ Welcome to my GitHub profile! I am passionate developer and lifelong learner, fo
   **Others**
   Data Structure & Algorithms | Object-Oriented Programming (OOP)
 
+  ## SOFT SKILLS 
+  Communication | Problem Solving | TeamWork | Presentation Skills | Leadership 
+
 
   ## CERTIFICATION 
   
@@ -45,6 +48,13 @@ Welcome to my GitHub profile! I am passionate developer and lifelong learner, fo
   Salesforce Developer
   
   IoT
+
+
+  ## EXPERIENCE
+  
+  Developer Intern - Salesforce - (12/2023-01/2024)
+
+  IoT Intern - NIELIT,Patna -(11/2022-12/2022)
 
 
 <!---
