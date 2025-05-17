@@ -10,8 +10,11 @@ Welcome to my GitHub profile! I am passionate developer and lifelong learner, fo
   Session : 2023-2026
 
   👀 **Actively seeking **  entry-level opportunities in **Software Development** , **Java Developer** , **Data science**
+  
   🌱 currently enhancing my skills in Data Analysis, java, python, AI, Database management 
+  
   💞️ I’m looking to collaborate on real-world projects and open source contributions
+  
   📫 **Reach me at**  nidhipriya585@gmail.com  ||  https://www.linkedin.com/in/nidhi-priya-444011241
 
 
@@ -30,10 +33,15 @@ Welcome to my GitHub profile! I am passionate developer and lifelong learner, fo
   ## CERTIFICATION 
   
   CCNA 
+  
   Programming in Java (NPTEL) 
+  
   Cisco 
+  
   Python 
+  
   Salesforce Developer
+  
   IoT
 
 
