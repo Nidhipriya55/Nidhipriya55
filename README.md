@@ -6,7 +6,9 @@ Welcome to my GitHub profile! I am passionate developer and lifelong learner, fo
 
   ** EDUCATION **
   I'm persuing B.Tech degree from Government Engineering College Gopalganj,Bihar ( Bihar Engineering University ).
+  
   Degree : Computer Science and Engineering
+  
   Session : 2023-2026
 
   👀 **Actively seeking **  entry-level opportunities in **Software Development** , **Java Developer** , **Data science**
